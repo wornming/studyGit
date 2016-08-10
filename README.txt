@@ -1,2 +1,1 @@
-git is a good software
-git is a good software
+git is very good
